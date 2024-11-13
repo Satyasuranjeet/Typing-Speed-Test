@@ -32,17 +32,6 @@
 - **Real-time Feedback**: Highlights correct and incorrect characters as you type.
 - **Customizable Settings**: Change the time limit as per your preference.
 
----
-
-## 🖼️ Screenshots
-<p align="center">
-  <img src="path_to_your_screenshot1.png" alt="Screenshot of Typing Speed Test" width="600">
-  <br>
-  <img src="path_to_your_screenshot2.png" alt="Highlighted text display" width="600">
-</p>
-
----
-
 ## ⚙️ Getting Started
 
 To get a local copy up and running, follow these simple steps.
