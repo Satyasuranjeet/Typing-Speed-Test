@@ -25,7 +25,7 @@ const TypingSpeedTest = () => {
 
   const fetchText = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/proxy-text');
+      const response = await axios.get('https://typing-speed-test-4reg.vercel.app/proxy-text');
       setText(response.data.text);
       resetTest();
     } catch (error) {
